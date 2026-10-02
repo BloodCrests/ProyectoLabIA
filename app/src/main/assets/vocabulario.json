@@ -1,0 +1,30 @@
+{
+  "categorias": [
+    {
+      "id": "personas",
+      "nombre": "Personas",
+      "pictogramas": [
+        { "id": "yo", "texto": "yo", "imagen": "personas/yo.png" },
+        { "id": "tu", "texto": "tú", "imagen": "personas/tu.png" },
+        { "id": "mama", "texto": "mamá", "imagen": "personas/mama.png" }
+      ]
+    },
+    {
+      "id": "acciones",
+      "nombre": "Acciones",
+      "pictogramas": [
+        { "id": "quiero", "texto": "quiero", "imagen": "acciones/quiero.png" },
+        { "id": "comer", "texto": "comer", "imagen": "acciones/comer.png" },
+        { "id": "beber", "texto": "beber", "imagen": "acciones/beber.png" }
+      ]
+    },
+    {
+      "id": "cosas",
+      "nombre": "Cosas",
+      "pictogramas": [
+        { "id": "agua", "texto": "agua", "imagen": "cosas/agua.png" },
+        { "id": "pan", "texto": "pan", "imagen": "cosas/pan.png" }
+      ]
+    }
+  ]
+}
